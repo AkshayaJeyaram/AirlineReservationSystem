@@ -1,8 +1,3 @@
-# Ignore Code::Blocks project files
-*.cbp
-*.layout
-*.depend
-*.cscope_file_list
 
 # Ignore compiled object files and binaries
 *.o
