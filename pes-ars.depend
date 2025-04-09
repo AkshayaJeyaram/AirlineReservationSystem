@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1555861672 source:c:\c programming\pes-ars\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"ars-customer.h"
+	"ars-menus.h"
+	"status.h"
+	"ars-flight.h"
+	"ars-flight-trip.h"
+	"ars-tickets.h"
+
+1555590001 c:\c programming\pes-ars\ars-customer.h
+
+1555857389 source:c:\c programming\pes-ars\ars-customer.c
+	<stdio.h>
+	<string.h>
+	"main.h"
+	"ars-customer.h"
+	"status.h"
+	"ars-flight.h"
+	"ars-menus.h"
+	"ars-flight-trip.h"
+	"ars-tickets.h"
+
+1555764080 c:\c programming\pes-ars\main.h
+
+1555862083 c:\c programming\pes-ars\status.h
+
+1555603614 c:\c programming\pes-ars\ars-menus.h
+
+1555861672 source:c:\c programming\pes-ars\ars-menus.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"ars-customer.h"
+	"ars-flight.h"
+	"ars-menus.h"
+	"status.h"
+	"ars-flight-trip.h"
+	"ars-tickets.h"
+
+1555861571 c:\c programming\pes-ars\ars-flight.h
+
+1555862216 source:c:\c programming\pes-ars\ars-flight.c
+	<stdio.h>
+	<string.h>
+	"main.h"
+	"ars-flight.h"
+	"ars-customer.h"
+	"status.h"
+	"ars-menus.h"
+	"ars-flight-trip.h"
+	"ars-tickets.h"
+
+1555863212 c:\c programming\pes-ars\ars-flight-trip.h
+
+1555863212 source:c:\c programming\pes-ars\ars-flight-trip.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"status.h"
+	"ars-menus.h"
+	"ars-flight.h"
+	"ars-flight-trip.h"
+	"ars-customer.h"
+	"ars-tickets.h"
+
+1555858863 c:\c programming\pes-ars\ars-tickets.h
+
+1555862361 source:c:\c programming\pes-ars\ars-tickets.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"ars-customer.h"
+	"ars-flight.h"
+	"ars-menus.h"
+	"status.h"
+	"ars-flight-trip.h"
+	"ars-tickets.h"
+
