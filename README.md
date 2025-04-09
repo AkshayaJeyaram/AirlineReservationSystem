@@ -35,7 +35,7 @@ Select either the admin or user menu based on your role.
 Follow the on-screen prompts to perform various actions like booking flights, managing flight schedules, etc.
 
 Future Improvements:
-Implement additional user features like changing password, updating personal details.
+Implement additional user features like changing password, and updating personal details.
 
 Enhance the admin interface with better flight schedule management features.
 
