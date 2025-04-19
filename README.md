@@ -25,8 +25,8 @@ The Airline Reservation System (ARS) is a C-based software application that mana
 ### Compilation:
 To compile the project, you can use the following command:
 
-```bash
 gcc *.c -o AirlineReservationSystem
+
 Usage:
 Run the executable: ./AirlineReservationSystem
 
